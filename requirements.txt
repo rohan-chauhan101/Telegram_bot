@@ -1,4 +1,3 @@
-python-telegram-bot
+google-generativeai
+pyTelegramBotAPI
 python-dotenv
-google-genai
-flask
